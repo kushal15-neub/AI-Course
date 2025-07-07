@@ -6,8 +6,8 @@ This repository is created as part of the Artificial Intelligence course to orga
 
 ## What I Learned from this Course
 
-- Implemented AI algorithms like BFS, DFS, A*, MinMax, Alpha-Beta Pruning , AO* , Depth - Limit Search , Iterative Deepening Search,Bidirectional Search
-  Depth-Limited Search , Heuristic Search, Beam Search.
+-Implemented AI algorithms like BFS, DFS, A*, MinMax, Alpha-Beta Pruning ,   AO* , Depth - Limit Search , Iterative Deepening Search,Bidirectional Search
+Depth-Limited Search , Heuristic Search, Beam Search.
 
 - Designed and implemented interactive AI-based games, applying game theory and decision-making logic.
 - Explored AI tools like ChatGPT, DALL·E, and Teachable Machine.

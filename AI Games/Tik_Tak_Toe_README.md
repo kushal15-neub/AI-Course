@@ -1,10 +1,10 @@
-Tic Tac Toe AI (Minimax)
+# Tic Tac Toe AI (Minimax)
 
 A Python-based GUI Tic Tac Toe game where you play as "X" and the computer plays as "O". The computer uses the **Minimax algorithm** to make intelligent, unbeatable moves.
 
 ---
 
-How to Run the Game
+# How to Run the Game
 
 Prerequisites
 
@@ -14,21 +14,23 @@ Prerequisites
 - `tkinter` for GUI
 - `math` for score calculations
 
-Run Command
+# Run Command
 
 Open terminal and run:
 
 ```bash
 
-python tic_tac_toe.py
+python Tic_Tac_Toe.py
 
 
 
 If using Windows:
 python tic_tac_toe.py
 
+```
 
-How to Play
+# How to Play
+
 You are Player X, the computer is Player O
 
 Click on any empty square to place your move
@@ -45,10 +47,9 @@ The game is a draw (board is full)
 
 The GUI updates in real-time, and a popup message shows the result.
 
+# Algorithm Used
 
- Algorithm Used
-
- Minimax Algorithm
+Minimax Algorithm
 This is a backtracking algorithm that tries all possible moves recursively and assigns scores based on the outcome:
 
 +1: Computer (O) wins
@@ -61,9 +62,7 @@ At each turn, the AI selects the move that maximizes its chance of winning and m
 
 It guarantees the best possible move at every turn.
 
-```
-
-Screenshots
+# Screenshots
 
 For the computer win :
 
@@ -72,8 +71,6 @@ For the computer win :
 For the user win :
 
 ![alt text](image/image.png)
-
-
 
 For draw:
 

@@ -45,11 +45,11 @@ You can reduce time complexity using Alpha-Beta Pruning.
 
 
 
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 
 
 The graph:
 
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)

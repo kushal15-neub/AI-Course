@@ -43,7 +43,7 @@ O(b^(d/2)) for visited sets and queues
 
 
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 
 The graph:

@@ -36,12 +36,12 @@ O(1) – constant memory usage (no data structures beyond scalars).
 
 🧪 Sample Input & Output
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 The graph:
 
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 
 

@@ -3,7 +3,7 @@ Algorithm Implementation
 Welcome to the Algorithm Implementation section of the AI Course!
 This directory contains C++ implementations and documentation for a variety of classic and modern search algorithms used in Artificial Intelligence. Each algorithm is accompanied by a dedicated README file explaining its logic, use-cases, and complexity.
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
 How to Use
 Each algorithm has:

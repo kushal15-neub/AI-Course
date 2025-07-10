@@ -33,8 +33,8 @@ O(V) for the visited array and recursive call stack
 
 
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 The graph:
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)

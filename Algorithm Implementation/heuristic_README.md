@@ -35,10 +35,10 @@ O(V) for visited array, parent tracking, and priority queue
 
 
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 
 The graph:
 
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)

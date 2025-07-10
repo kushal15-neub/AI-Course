@@ -1,4 +1,4 @@
-# 🧠 AI Tools Exploration – Kushal Panthadas  
+#  AI Tools Exploration – Kushal Panthadas  
 **Student ID:** 0562310005101015  
 **Instructor:** Mr. Razorshi Prozzwal Talukder  
 **Department of CSE, North East University, Sylhet**
@@ -36,6 +36,16 @@
 - [ InVideo Video Tutorial](https://help.invideo.io/en/articles/9380211-how-can-i-use-invideo-ai-a-complete-tutorial?utm_source)
 - [ Reddit Review on AI Video Tools](https://www.reddit.com/r/ProductMarketing/comments/1em8jrl/i_tried_5_ai_video_tools_so_you_dont_have_to/?utm_source)
 
+
+
+
+##  Project Folder Structure
+
+AI_Tools_Exploration/
+├── README.md ✅ This documentation file
+├── AI_Course_Video.mp4 ✅ Video created with InVideo
+├── AI_Course_Presentation.pptx ✅ Presentation created with Gamma
+
 ---
 
 ##  AI Course Presentation (Created with AI Tool)
@@ -70,12 +80,7 @@
 
 
 
-##  Project Folder Structure
 
-AI_Tools_Exploration/
-├── README.md ✅ This documentation file
-├── AI_Course_Video.mp4 ✅ Video created with InVideo
-├── AI_Course_Presentation.pptx ✅ Presentation created with Gamma
 
 ---
 

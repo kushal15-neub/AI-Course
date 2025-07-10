@@ -8,10 +8,10 @@ Welcome to **AI Games**, a collection of classic strategy games powered by intel
 
 Each game is a **complete implementation** featuring:
 
-- Clean, modular Python source code 🧼
-- Built-in or GUI-based gameplay 🎮
-- AI logic using **Minimax**, **Alpha-Beta Pruning**, and smart heuristics 🔍
-- Instructions, dependencies, and gameplay screenshots 🗂️
+- Clean, modular Python source code 
+- Built-in or GUI-based gameplay 
+- AI logic using **Minimax**, **Alpha-Beta Pruning**, and smart heuristics 
+- Instructions, dependencies, and gameplay screenshots 
 
 ---
 
@@ -37,12 +37,14 @@ Each game is a **complete implementation** featuring:
 ```bash
 pip install pygame python-chess
 
-```
+
 
 Tic Tac Toe requires only built-in tkinter and math
 Connect Four is fully terminal-based and needs no extra libraries
 
-## Project Structure
+
+ Project Structure
+
 
 AI_Games/
 ├── README.md ← Main README (overview of all games)
@@ -72,7 +74,7 @@ AI_Games/
 | |__ cn3.png
 
 
-
+```
 # Screenshots
 
 Each game folder contains an images/ folder with gameplay screenshots to give a quick preview.
@@ -96,6 +98,7 @@ Beginners learning game AI
 Students studying Minimax logic
 
 Showcasing skills in Python + Game AI
+
 
 # Developed By
 

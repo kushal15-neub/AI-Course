@@ -37,4 +37,4 @@ O(b^m) due to storing all frontier nodes (open list)
 
 The graph:
 
-![alt text](images/image-2.png)
+![alt text](images/img.png)

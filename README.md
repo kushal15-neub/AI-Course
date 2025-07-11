@@ -1,24 +1,75 @@
-# AI Course
+#  AI Course Summary – README
 
-## Purpose of this Course
+##  Purpose of the Course
 
-This repository is created as part of the Artificial Intelligence course to organize and demonstrate implementations, games, and exploration of modern AI tools.
+This course introduced the fundamental concepts and practical applications of Artificial Intelligence (AI), focusing on theoretical understanding and lab-based algorithm implementation. The goal was to equip students with both conceptual clarity and coding experience using C++ and Python.
 
-## What I Learned from this Course
+---
 
--Implemented AI algorithms like BFS, DFS, A*, MinMax, Alpha-Beta Pruning ,   AO* , Depth - Limit Search , Iterative Deepening Search,Bidirectional Search
-Depth-Limited Search , Heuristic Search, Beam Search.
+##  What I Learned
 
-- Designed and implemented interactive AI-based games, applying game theory and decision-making logic.
-- Explored AI tools like ChatGPT, DALL·E, and Teachable Machine.
-- Gained a deeper understanding of how AI is shaping industries, solving complex problems, and enhancing human capabilities across domains.
+###  Theoretical Topics:
 
-## Duration of this Course
+- Introduction to AI and its applications
+- Types of AI: Narrow, General, Super
+- Intelligent Agents: Simple Reflex, Model-Based, Goal-Based, Utility-Based
+- Search Strategies:
+  - **Uninformed Search:**  
+    - Breadth-First Search (BFS)  
+    - Depth-First Search (DFS)  
+    - Iterative Deepening Search (IDS)  
+    - Bidirectional Search  
+    - Depth-Limited Search (DLS)  
+  - **Informed Search:**  
+    - Heuristic Search  
+    - Best-First Search  
+    - AO\* Algorithm  
+    - Beam Search  
+- Game Playing in AI:
+  - Minimax Algorithm
+  - Alpha-Beta Pruning
+- Constraint Satisfaction Problems (CSP), Graph Coloring
+- Consistency in CSP: Local, Path, k-, Global
+- Branch and Bound Algorithm
+- Knowledge Representation and Reasoning
+- Uncertainty, Probability, Bayesian Inference
+- Natural Language Processing (NLP)
+- Robotics and Machine Perception
 
-Janury 2025 – June 2025
+---
 
-## Course Supervisor
+###  Lab Tasks & Implemented Algorithms
 
-Mr.Razorshi Prozzwal Talukder
-Lecturer
-Department of CSE, North East University, Bangladesh
+All algorithms were implemented and tested using **C++** or **Python** in lab sessions:
+
+| Chapter | Algorithms Implemented |
+|--------|-------------------------|
+| **3** | BFS, DFS, IDS, DLS, Bidirectional Search |
+| **4** | Heuristic, Best-First, AO* |
+| **5** | Beam Search |
+| **6** | Minimax, Alpha-Beta Pruning |
+
+ **Game Projects:**
+ 
+- **Tic Tac Toe AI** using Minimax
+- **Connect Four AI**
+- **Chess AI (simplified version)**
+
+ **Real-world Simulations:**
+- Decision-making agents
+- State-space problem solvers
+
+---
+
+##  Course Duration
+
+**January 2025 – June 2025**
+
+---
+
+##  Course Supervisor
+
+**Mr. Razorshi Prozzwal Talukder**  
+Lecturer  
+Department of CSE  
+North East University, Bangladesh
